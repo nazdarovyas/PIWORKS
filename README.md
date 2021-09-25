@@ -1,6 +1,6 @@
 # PIWORKS
 
-[New User](NewUserPage)  [X] Hide Disabled User
+[New User](NewUserPage)  -[X] Hide Disabled User
 
 ID | User Name | Email | Enabled
 ------------ | ------------- | ------------- | -------------
