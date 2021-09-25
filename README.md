@@ -38,6 +38,6 @@ An example of the form is given below.
 
 - User Role:           _____ <ul><li>Guest</li><li>Admin</li><li>SuperAdmin</li></ul>
  
-Enable: :white_large_square:
+- Enable: :white_large_square:
 
 After the registration process is completed, the new user should be listed in the list on the left.
